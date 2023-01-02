@@ -1,4 +1,4 @@
-const myToken = '8046ecd0688d427e17ce85df93161f20';
+const myToken = '';
 
 export async function getFirstWeather(type, searchValue) {
   const response = await fetch(
